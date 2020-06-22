@@ -1,2 +1,3 @@
-# obi-solucoes
-Soluções de questões da Olimpíada Brasileira de Informática
+# Soluções da OBI
+
+Neste repositório se encontram as soluções de problemas das Olimpíadas Brasileiras de Informática.
